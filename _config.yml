@@ -163,11 +163,6 @@ defaults:
       nav_exclude: false
       parent: ElasticDL
   - scope:
-      path: "elasticdl/elasticdl/doc/cn/elasticdl-gdd-2019.md"
-    values:
-      nav_exclude: false
-      parent: ElasticDL
-  - scope:
       path: "elasticdl/elasticdl/doc/distributed_embedding_layer_design.md"
     values:
       nav_exclude: false
